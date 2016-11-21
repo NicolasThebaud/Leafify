@@ -4,7 +4,7 @@
   "description": "cli tool for leafdb",
   "main": "index.js",
   "bin": {
-    "flavour": "./bin/flavour.js"
+    "leafify": "./bin/leafify.js"
   },
   "repository": {
     "type": "git",
