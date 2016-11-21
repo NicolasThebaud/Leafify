@@ -1,0 +1,22 @@
+{
+  "name": "leafify",
+  "version": "0.1.0",
+  "description": "cli tool for leafdb",
+  "main": "index.js",
+  "bin": {
+    "flavour": "./bin/flavour.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasThebaud/Leafify.git"
+  },
+  "author": "NicolasThebaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasThebaud/Leafify/issues"
+  },
+  "homepage": "https://github.com/NicolasThebaud/Leafify",
+  "dependencies": {
+    "meow": "^3.7.0"
+  }
+}
